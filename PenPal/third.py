@@ -1,1 +1,1 @@
-print("I am the third one, !")
+print("I am the third one!")
